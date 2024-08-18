@@ -1,0 +1,21 @@
+Started with frontend
+
+-create router in app
+
+   -section 3
+   - connect index and app with router 
+
+   const App = () => {
+    return (
+    <RouterProvider router={router}></RouterProvider>
+        )
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <App />
+    <ToastContainer position='top-center'/>
+  </React.StrictMode>)
+
+  -create 
+
