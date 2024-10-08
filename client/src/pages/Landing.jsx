@@ -15,10 +15,7 @@ const Landing = () => {
             <h1>
               Job <span>Tracking</span> App
             </h1>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-              Pariatur, sapiente dolorem, dolorum, eius iste illum est 
-              distinctio quia incidunt recusandae tempora aliquam quibusdam 
-              doloremque mollitia soluta repudiandae iure accusantium minima?
+            <p>Welcome to Jobify! Sign up or login below
             </p>
             <Link to="/register" className='btn register-link'>Register</Link>
             <Link to="/login" className='btn'>Login</Link>
